@@ -103,6 +103,7 @@ A statement of work often times consists of:
   - [free invoice generator](http://www.freeinvoicegenerator.co)
   
 * Taxes
+  - In Saudi Arabia there is no Tax for freelance work, but you can't apply for for Ta'amenat and pay 18% of your estimate income to be covered by Ta'ameenat retirement benefits. In regular jobs, you only pay 9% and your employer pays the other 9%.
   - Self Employment Tax - Covers Social Security and Medicare taxes. If you were employed by someone, they would pay half and take the other half out of your paychecks each month, but since you employ yourself, you’re responsible for all of it.
   - Save up to 35% of your income to be safe
   - Quarterly Estimated Payments
@@ -114,7 +115,7 @@ A statement of work often times consists of:
 
 **You Do** Browse at some invoicing solutions, discuss in class some good starter ones for freelancing
 
-### Pricing your Services 
+### Pricing your Services
 
 You will hear many times in your career the question: **"How much does it cost for a website?"**. My answer: **"How much does it cost to build a house?"**.
 
